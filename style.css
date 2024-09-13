@@ -39,7 +39,7 @@ a {
   background-color: var(--secondary);
   overflow: hidden;
   border-bottom: 4px solid var(--trim);
-  font-size: 16px;
+  font-size: 20px;
 }
 
 .navbar-toggler-icon{
