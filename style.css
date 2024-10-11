@@ -55,6 +55,22 @@ a {
 }
 
 /* Style all font awesome icons */
+
+.Photography {
+}
+
+.Photography::after {
+  content: "\1F4F7";
+  font-size: 28px;
+}
+
+.HyperLinks {
+}
+
+.HyperLinks::before {
+  content: "\1F517";
+}
+
 .fa {
   padding: 10px;
   font-size: 20px;
