@@ -71,6 +71,14 @@ a {
   content: "\1F517";
 }
 
+.VideoLinks::before {
+  content: "\1F3A6";
+}
+
+.HyperLinks::before {
+  content: "\1F517";
+}
+
 .fa {
   padding: 10px;
   font-size: 20px;
