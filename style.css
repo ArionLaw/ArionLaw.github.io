@@ -75,8 +75,11 @@ a {
   content: "\1F3A6";
 }
 
-.HyperLinks::before {
-  content: "\1F517";
+.EmailLinks {
+}
+
+.EmailLinks::before {
+  content: "\1F4E7";
 }
 
 .fa {
